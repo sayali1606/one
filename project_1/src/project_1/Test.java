@@ -7,5 +7,9 @@ public class Test {
 		System.out.println("project 1");
 
 	}
+	
+	public void m1() {
+		System.out.println("m1 method");
+	}
 
 }
