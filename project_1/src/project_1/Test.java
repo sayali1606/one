@@ -17,5 +17,9 @@ public class Test {
                System.out.println("method m2");
 		
 	}
+	
+	public void m3() {
+		System.out.println("method m3");
+	}
 
 }
